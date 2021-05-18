@@ -5,7 +5,7 @@
 To create a chess game simulation using vb.net that follow the rules of the chess game 
 
 # ABSTRACT
-This problem is mainly developed to visualize the chess game that follows the rules
+This program is mainly developed to visualize the chess game that follows the rules
 *	Show's the player for available moves, 
 *	Automatically checks for check for king, 
 *	Automatically check for check-mate for king 
